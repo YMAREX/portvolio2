@@ -1,0 +1,146 @@
+header{
+    background: url(../img/header.png) no-repeat center;
+    width: 100%;
+    height: 100vh;
+    margin-top: -30px;
+}
+body{
+    padding: 0;
+    margin: 0;
+}
+.champ p{
+    font-size: 30px;
+    color: #FBB731;
+    margin-bottom: -50px;
+}
+.champ h1{
+    font-size: 120px;
+    color: #FAF9F9;
+    margin-bottom: 35px;
+}
+.champ span{
+    font-size: 19px;
+    color: #DEDEDE;  
+}
+.IMPUT input{
+    color: #1E2F40;
+    text-align: center;
+    background-color: #FBB731;
+    width: 170px;
+    height: 58px;
+    border-radius: 10px;
+    margin-left: 150px;
+    font-weight: bold;
+}
+.champ{
+    margin-left: 150px;
+}
+.lenu{
+    display: flex;
+    margin: 0px 150px 0px 150px;
+}
+.burger2{
+    margin-left: 10px;
+}
+.burger1{
+    margin-right: 10px;
+}
+.pzd{
+    background: url(../img/burger1.png) no-repeat left;
+    width: 580px;
+    height: 395px;
+}
+.chpok{
+    background: url(../img/burger2.png) no-repeat right;
+    width: 580px;
+    height: 395px;
+}
+.gg{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px auto;
+    max-width: 1200px;
+}
+
+.tabl input{
+    color: #DEDEDE;
+    text-align: center;
+    background-color: #ff6a00;
+    border-radius: 20px;
+    width: 100px;
+    margin-top: 116px;
+    border: none;
+    font-weight: bold;
+    height: 20px;
+
+}
+.br2 input{
+    color: #1E2F40;
+    text-align: center;
+    background-color: #FBB731;
+    width: 170px;
+    height: 58px;
+    border-radius: 10px;
+    font-weight: bold;
+    border: none;
+}
+.tobipzd h2{
+    font-weight: bold;
+    color: #DEDEDE;
+    font-size: 60px;
+}
+.tobipzd{
+    margin-left: 50px;
+}
+.tobipzd p{
+    color: #DEDEDE;
+    font-size: 15px;
+}
+.tobipzd h2{
+    margin: 0px 0px;
+}
+.chpok h3{
+    color: #DEDEDE;
+    font-size: 44px;
+    margin: 0px 0px;
+    margin-top: 116px;
+}
+.chpok p{
+    color: #DEDEDE;
+    font-size: 15px;
+}
+.pyk{
+    margin-left: 50px;
+
+}
+
+footer{
+    background: url(../img/foother.png) no-repeat center;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+footer div{
+    margin: 50px auto;
+}
+footer p{
+    color: #DEDEDE;
+    font-size: 15px;
+}
+footer h4{
+    color: #fff;
+    font-size: 20px;
+}
+footer .cho4 h4{
+    color: #FBB731 !important; 
+}
+footer span{
+    color: #FAF9F9;
+    font-size: 15px;
+    font-weight: bold;
+}
+.cho1{
+    margin-top: 80px;
+}
